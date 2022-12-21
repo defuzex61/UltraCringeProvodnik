@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\bin\Debug\net6.0\CringeProvodnik.exe
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\bin\Debug\net6.0\CringeProvodnik.deps.json
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\bin\Debug\net6.0\CringeProvodnik.runtimeconfig.json
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\bin\Debug\net6.0\CringeProvodnik.dll
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\bin\Debug\net6.0\CringeProvodnik.pdb
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\obj\Debug\net6.0\CringeProvodnik.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\obj\Debug\net6.0\CringeProvodnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\obj\Debug\net6.0\CringeProvodnik.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\obj\Debug\net6.0\CringeProvodnik.AssemblyInfo.cs
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\obj\Debug\net6.0\CringeProvodnik.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\obj\Debug\net6.0\CringeProvodnik.dll
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\obj\Debug\net6.0\refint\CringeProvodnik.dll
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\obj\Debug\net6.0\CringeProvodnik.pdb
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\obj\Debug\net6.0\CringeProvodnik.genruntimeconfig.cache
+C:\Users\user\source\repos\CringeProvodnik\CringeProvodnik\obj\Debug\net6.0\ref\CringeProvodnik.dll
